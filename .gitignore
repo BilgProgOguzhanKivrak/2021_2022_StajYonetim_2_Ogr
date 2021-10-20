@@ -1,0 +1,5 @@
+packages/
+.vs/
+StayYonetimProg/bin/
+StayYonetimProg/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttributes.cs
+StayYonetimProg/obj/
